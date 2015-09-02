@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Type</key>
+		<string>Lesson</string>
+		<key>Date Start</key>
+		<string>2/9/13</string>
+		<key>Date End</key>
+		<string></string>
+		<key>Time Start</key>
+		<string></string>
+		<key>Time End</key>
+		<string></string>
+		<key>Priority</key>
+		<string>1</string>
+		<key>Short Desc</key>
+		<string>French</string>
+		<key>Long Desc</key>
+		<string></string>
+		<key>Don&apos;t Forget View</key>
+		<string></string>
+		<key>Today View</key>
+		<string>Yes</string>
+		<key>This Week</key>
+		<string></string>
+		<key>This Term</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>Lesson</string>
+		<key>Date Start</key>
+		<string>2/9/13</string>
+		<key>Date End</key>
+		<string></string>
+		<key>Time Start</key>
+		<string></string>
+		<key>Time End</key>
+		<string></string>
+		<key>Priority</key>
+		<string>1</string>
+		<key>Short Desc</key>
+		<string>Games</string>
+		<key>Long Desc</key>
+		<string></string>
+		<key>Don&apos;t Forget View</key>
+		<string></string>
+		<key>Today View</key>
+		<string>Yes</string>
+		<key>This Week</key>
+		<string></string>
+		<key>This Term</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>Club</string>
+		<key>Date Start</key>
+		<string>2/9/13</string>
+		<key>Date End</key>
+		<string>2/9/13</string>
+		<key>Time Start</key>
+		<string>15:30</string>
+		<key>Time End</key>
+		<string>17:30</string>
+		<key>Priority</key>
+		<string>2</string>
+		<key>Short Desc</key>
+		<string>Debating</string>
+		<key>Long Desc</key>
+		<string></string>
+		<key>Don&apos;t Forget View</key>
+		<string></string>
+		<key>Today View</key>
+		<string>Yes</string>
+		<key>This Week</key>
+		<string>Yes</string>
+		<key>This Term</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Type</key>
+		<string>Trip</string>
+		<key>Date Start</key>
+		<string>3/9/13</string>
+		<key>Date End</key>
+		<string>4/9/13</string>
+		<key>Time Start</key>
+		<string>17:00</string>
+		<key>Time End</key>
+		<string>14:00</string>
+		<key>Priority</key>
+		<string>5</string>
+		<key>Short Desc</key>
+		<string>Bushcraft</string>
+		<key>Long Desc</key>
+		<string>2 day trip to Bushcraft</string>
+		<key>Don&apos;t Forget View</key>
+		<string>Yes</string>
+		<key>Today View</key>
+		<string>Yes</string>
+		<key>This Week</key>
+		<string>Yes</string>
+		<key>This Term</key>
+		<string>Yes</string>
+	</dict>
+</array>
+</plist>
